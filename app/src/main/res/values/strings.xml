@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cadastro de Filmes</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="strCategorias">
+        <item>Comédia</item>
+        <item>Ação</item>
+        <item>Animação</item>
+        <item>Infantil</item>
+        <item>Terror</item>
+        <item>Suspense</item>
+    </string-array>
+
+</resources>

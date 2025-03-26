@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633675623481",
+    "firebase_url": "https://produtosapp-ef8ab-default-rtdb.firebaseio.com",
+    "project_id": "produtosapp-ef8ab",
+    "storage_bucket": "produtosapp-ef8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633675623481:android:70003ca0c459a2a3c0b1e8",
+        "android_client_info": {
+          "package_name": "com.example.newbanco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633675623481-4d0kdrk258s1dvmhnbuuev42f33bcvqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newbanco",
+            "certificate_hash": "93cd4b0807d0c6a0d40f1029391ea49ccf67bcdf"
+          }
+        },
+        {
+          "client_id": "633675623481-rv77gd6894ce7pjsc0h9jorsrbun3bfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uUt-Ww31-E1Zj7195abVGFsn4aRc_es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633675623481-rv77gd6894ce7pjsc0h9jorsrbun3bfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
